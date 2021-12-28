@@ -1,0 +1,3 @@
+com\guessthenumberrest\dao\GameDaoDBTest.class
+com\guessthenumberrest\dao\GameRoundDaoDBTest.class
+com\guessthenumberrest\guessTheNumberService\GuessTheNumberServiceImplTest.class
